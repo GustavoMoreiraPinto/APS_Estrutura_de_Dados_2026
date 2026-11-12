@@ -1,0 +1,16 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+.vscode/
